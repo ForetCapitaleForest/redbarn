@@ -63,6 +63,7 @@
 
 ### Illustrations and/or Photos
 - [Golden Russet apple watercolours](https://pomological.art/watercolors/POM00001878)
+- [Silver Creek Nursery photo](https://silvercreeknursery.ca/cdn/shop/products/PXL_20201205_185120657.PORTRAIT_2.jpg?v=1755721944&width=1500)
 
 ### History
 
