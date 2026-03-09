@@ -1,17 +1,5 @@
 # Golden Russet Apple
 
-## Fruit Traits
-### Recommended Use 
-- ie., Fresh eating, canning, freezing
-
-### Fruit Size
-
-### Storage
-- ie. Keeps 2-3 weeks in the fridge
-
-### Harvest
-- i.e., August - Late
-
 ## Tree Traits
 ### Canadian Hardiness Zone
 - i.e., 4
@@ -35,10 +23,26 @@
 ### Overall Disease Resistance Rating*
 - *this rating is combined with our experience growing in our test orchards combined with already available information on the cultivar.
 
+---
+
+## Fruit Traits
+### Recommended Use 
+- ie., Fresh eating, canning, freezing
+
+### Fruit Size
+
+### Storage
+- ie. Keeps 2-3 weeks in the fridge
+
+### Harvest
+- i.e., August - Late
+
+----
+
 ## Fun Facts
 
 ### Illustrations and/or Photos
-- Ideally some of our own photos, or from royalty free image databases such as pomological.art
+- [Golden Russet apple watercolours](https://pomological.art/watercolors/POM00001878)
 
 ### History
 
@@ -47,8 +51,6 @@
 ### Stories specific to Red Barn CFF
 
 ---
-
-Then, specific to each tree in the food forest, we can also add
 
 ## Tree Care Information
 
