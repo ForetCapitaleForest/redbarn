@@ -2,40 +2,56 @@
 
 ## Tree Traits
 ### Canadian Hardiness Zone
-- i.e., 4
+-  Zone 4
 
 ### Soil Preference
-- ie, Fertile sandy loam, loam, lighter clay loam - nothing very heavy. Prefers average to moist conditions with well-drained soils, avoid planting anywhere that floods for more than two weeks in the spring.
+- Sandy loam, loam, clay loam. Prefers average to moist conditions, avoid planting anywhere that floods for more than two weeks in the spring. Generally quite adaptable to different soil conditions.
 
-### Flowering Time: Middle
+### Flowering Time
+- Early
 
 ### Bloom Colour
+- White
 
 ### Pollination Requirements
-- ie., Requires a pollinator of a different apricot variety that blooms around the same time
+- Requires a pollinator of a different apple variety that blooms around the same time
 
 ### Sun/Shade Requirements
 - Full sun (approx. 8-10 hours of sun daily)
 
 ### General Growth Habit
-- ie., Moderately vigorous. Resistant to brown rot, canker, and bacterial leaf spot.
+- Tip-bearing, moderately vigorous and very hardy, heavy crops. Slightly susceptible to cedar rust but resistant to mildew, scab, and canker. Can be harvested from early to mid October.
 
 ### Overall Disease Resistance Rating*
-- *this rating is combined with our experience growing in our test orchards combined with already available information on the cultivar.
+- High, good disease resistance for an apple
 
 ---
 
 ## Fruit Traits
 ### Recommended Use 
-- ie., Fresh eating, canning, freezing
+- Fresh eating, cider
 
 ### Fruit Size
+- Medium
 
 ### Storage
-- ie. Keeps 2-3 weeks in the fridge
+- Good keeper, keeps to March in cold storage
 
 ### Harvest
-- i.e., August - Late
+- October - Early
+
+### Cider Class (if applicable and known)
+
+- Sweet and Sharp*
+  - Class: Sharp
+  - Sugar: Very high, SG 1.074
+  - Acidity: High, TA 9.2 g/L
+  - Tannins: Low
+  - Juice Yield: Medium
+  - Taste: Full-bodied and alcoholic with complex aromatics and a finish reminiscent of Sauvignon Blanc
+  - Recommendations: Great base for a dessert apple cider blend and blends well with lower acidity varieties. Can also be made into a single-variety cider.
+
+*Information based on Claude Jolicoeur's The New Cidermaker's Handbook and Washington State University's "Cultivar Performance Gallery"
 
 ----
 
