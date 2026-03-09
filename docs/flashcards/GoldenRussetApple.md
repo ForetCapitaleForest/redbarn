@@ -1,5 +1,7 @@
 # Golden Russet Apple
 
+![GoldenRussetApple](../images/Pomological_Watercolor_POM00001879.jpg)
+
 ## Tree Traits
 ### Canadian Hardiness Zone
 -  Zone 4
