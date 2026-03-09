@@ -25,6 +25,8 @@
 ### Overall Disease Resistance Rating*
 - High, good disease resistance for an apple
 
+*Information based on notes from silvercreeknursery.ca orchard observations
+
 ---
 
 ## Fruit Traits
